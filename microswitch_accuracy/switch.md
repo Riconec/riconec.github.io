@@ -11,13 +11,21 @@ Since Voron 0 is running klipper with slide-swipe probe mod it makes sense just 
 Resulting test command as follows: `PROBE_ACCURACY SAMPLES=100 PROBE_SPEED=5` 
 
 ### Omron D2F-01F
+![alt](D2F-01F.jpg)
+
 `// probe accuracy results: maximum 16.794375, minimum 16.775000, range 0.019375, average 16.788169, median 16.788750, standard deviation 0.003074`
 
 ### Omron D2HW-A201
-![alt](microswitch_accuracy/D2HWA201D.jpg D2HW-A201)
+![alt](D2HWA201D.jpg)
+
 `// probe accuracy results: maximum 16.788750, minimum 16.778125, range 0.010625, average 16.782444, median 16.781875, standard deviation 0.002536`
+
 ### Omron D2HW-A231
+![alt](D2HW-A231D.jpg)
+
 `// probe accuracy results: maximum 16.801250, minimum 16.788125, range 0.013125, average 16.792156, median 16.790937, standard deviation 0.003318`
 
 ### Kailh GM4.0 Red
+![alt](KailhGM4.0.jpg)
+
 `// probe accuracy results: maximum 13.122500, minimum 13.103125, range 0.019375, average 13.115475, median 13.115000, standard deviation 0.002359`
